@@ -1,3 +1,4 @@
 ﻿# CardLayouts
 
-[![Demo Video](thumbnail.png)](11-04-01.mp4)
+[![Demo Video](11-04-01.mp4)]
+
